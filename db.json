@@ -1,62 +1,60 @@
 {
-  "drugstore": {
-    "products": [
-      {
-        "id": 1,
-        "name": "Paracetamol",
-        "category": "Medicine",
-        "price": 5.99,
-        "quantity": 100
-      },
-      {
-        "id": 2,
-        "name": "Band-Aids",
-        "category": "First Aid",
-        "price": 2.49,
-        "quantity": 50
-      },
-      {
-        "id": 3,
-        "name": "Toothpaste",
-        "category": "Personal Care",
-        "price": 3.99,
-        "quantity": 75
-      },
-      {
-        "id": 4,
-        "name": "Shampoo",
-        "category": "Personal Care",
-        "price": 7.99,
-        "quantity": 30
-      },
-      {
-        "id": 5,
-        "name": "Aspirin",
-        "category": "Medicine",
-        "price": 4.49,
-        "quantity": 80
-      },
-      {
-        "id": 6,
-        "name": "Antibacterial Soap",
-        "category": "Personal Care",
-        "price": 6.99,
-        "quantity": 40
-      },
-      {
-        "id": 7,
-        "name": "Adhesive Bandages",
-        "category": "First Aid",
-        "price": 3.29,
-        "quantity": 60
-      },
-      {
-        "id": 8,
-        "name": "Mouthwash",
-        "category": "Personal Care",
-        "price": 5.49,
-        "quantity": 25
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "Paracetamol",
+      "category": "Medicine",
+      "price": 5.99,
+      "quantity": 100
+    },
+    {
+      "id": 2,
+      "name": "Band-Aids",
+      "category": "First Aid",
+      "price": 2.49,
+      "quantity": 50
+    },
+    {
+      "id": 3,
+      "name": "Toothpaste",
+      "category": "Personal Care",
+      "price": 3.99,
+      "quantity": 75
+    },
+    {
+      "id": 4,
+      "name": "Shampoo",
+      "category": "Personal Care",
+      "price": 7.99,
+      "quantity": 30
+    },
+    {
+      "id": 5,
+      "name": "Aspirin",
+      "category": "Medicine",
+      "price": 4.49,
+      "quantity": 80
+    },
+    {
+      "id": 6,
+      "name": "Antibacterial Soap",
+      "category": "Personal Care",
+      "price": 6.99,
+      "quantity": 40
+    },
+    {
+      "id": 7,
+      "name": "Adhesive Bandages",
+      "category": "First Aid",
+      "price": 3.29,
+      "quantity": 60
+    },
+    {
+      "id": 8,
+      "name": "Mouthwash",
+      "category": "Personal Care",
+      "price": 5.49,
+      "quantity": 25
+    }
+  ]
 }
