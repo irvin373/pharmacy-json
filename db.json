@@ -1,0 +1,54 @@
+{
+  "drugstore": {
+    "products": [
+      {
+        "name": "Paracetamol",
+        "category": "Medicine",
+        "price": 5.99,
+        "quantity": 100
+      },
+      {
+        "name": "Band-Aids",
+        "category": "First Aid",
+        "price": 2.49,
+        "quantity": 50
+      },
+      {
+        "name": "Toothpaste",
+        "category": "Personal Care",
+        "price": 3.99,
+        "quantity": 75
+      },
+      {
+        "name": "Shampoo",
+        "category": "Personal Care",
+        "price": 7.99,
+        "quantity": 30
+      },
+      {
+        "name": "Aspirin",
+        "category": "Medicine",
+        "price": 4.49,
+        "quantity": 80
+      },
+      {
+        "name": "Antibacterial Soap",
+        "category": "Personal Care",
+        "price": 6.99,
+        "quantity": 40
+      },
+      {
+        "name": "Adhesive Bandages",
+        "category": "First Aid",
+        "price": 3.29,
+        "quantity": 60
+      },
+      {
+        "name": "Mouthwash",
+        "category": "Personal Care",
+        "price": 5.49,
+        "quantity": 25
+      }
+    ]
+  }
+}
